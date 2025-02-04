@@ -1,7 +1,3 @@
-Here’s your customized version for your group:  
-
----
-
 ## 🌐 Welcome, Cyber Pioneers!  
 
 🚀 **Hello Everyone!** Welcome to the official landing page for **Group CyberNexus**!  
