@@ -1,14 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Our Group Website</title>
-    <link href="styles.css" rel="stylesheet"/>
-  </head>
-  <body>
-    <div class="website">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Networking Essentials - By Andrew, Emmanuel & Alexandrea</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🌐 Networking Essentials</h1>
+        <p>📡 Learn About DNS, IP Addresses & Protocols</p>
+    </header>
+
+    <section class="intro">
+        <h2>Welcome to Our Networking Guide</h2>
+        <p>🚀 This website explores core **networking principles**, ensuring accessibility and security.</p>
+        
+        <h3>👥 Meet the Team</h3>
+        <ul>
+            <li>🔹 <strong>Andrew</strong> - Network Security Specialist</li>
+            <li>🔹 <strong>Emmanuel</strong> - Protocols & Cybersecurity Expert</li>
+            <li>🔹 <strong>Alexandrea</strong> - DNS & Cloud Networking Engineer</li>
+        </ul>
+    </section>
+
+    <section class="networking">
+        <h2>🔍 Understanding DNS, IPs & Protocols</h2>
+        
+        <h3>📌 Domain Name System (DNS)</h3>
+        <p>DNS translates **human-friendly domain names** (e.g., <code>example.com</code>) into **IP addresses**.</p>
+        <p>Example:</p>
+        <pre>example.com ➝ 192.168.1.1</pre>
+        
+        <h3>🖥️ IP Addresses</h3>
+        <p>Each device connected to the internet has an IP address, which can be **IPv4 (e.g., 192.168.1.1)** or **IPv6 (e.g., 2001:db8::ff00:42:8329)**.</p>
+        
+        <h3>🔗 Networking Protocols</h3>
+        <ul>
+            <li>📩 <strong>HTTP/HTTPS</strong> - Web communication protocols (HTTPS is encrypted for security).</li>
+            <li>📡 <strong>TCP/IP</strong> - Foundation of internet communication.</li>
+            <li>🔑 <strong>SSL/TLS</strong> - Ensures secure web browsing.</li>
+        </ul>
+    </section>
+
+    <section class="testing">
+        <h2>🛠️ Test Networking in Action</h2>
+        <p>Use these commands in the **terminal** to analyze website networking:</p>
+        
+        <h3>🖥️ Find a Website’s IP Address</h3>
+        <pre><code>nslookup example.com</code></pre>
+
+        <h3>📶 Check If a Website is Online</h3>
+        <pre><code>ping example.com</code></pre>
+
+        <h3>📜 View HTTP Headers</h3>
+        <pre><code>curl -I https://example.com</code></pre>
+    </section>
+
+    <section class="security">
+        <h2>🔐 Web Security & Best Practices</h2>
+        <ul>
+            <li>✅ Always use **HTTPS** to encrypt web traffic.</li>
+            <li>✅ Use **firewalls** to protect against cyber threats.</li>
+            <li>✅ **DNSSEC** helps prevent domain hijacking.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h2>🚀 Bringing Networking to Everyone</h2>
+        <p>🌍 Built with HTML & CSS. Hosted on **GitHub Pages / Netlify**.</p>
+        <p>📡 Follow our journey into secure, accessible networking!</p>
     </footer>
-    </div>
-  </body>
+</body>
 </html>
