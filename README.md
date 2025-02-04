@@ -1,66 +1,97 @@
-## 🌐 Welcome, Cyber Pioneers!  
-
-🚀 **Hello Everyone!** Welcome to the official landing page for **Group CyberNexus**!  
-
-### **👥 Our Team**  
-- 🔍 **Alexandrea Agbojeyin**  
-- 🔐 **Emmanuel Alovor**  
-- ⚙️ **Andrew Chan**  
-
-This repository is our **central hub** as we collaborate on **cybersecurity projects** and build our **intelligent security-based web solutions**.  
+### **🌐 CyberNexus Networking Project**  
 
 ---
 
-## 📌 **What is CyberNexus?**  
-CyberNexus is a team of **tech enthusiasts** focused on **cybersecurity innovations** and **smart automation tools**. This repository serves as:  
-- 📂 A **home base** for our research and development.  
-- 🛡 A **launchpad for security-focused web applications**.  
-- 🚀 A place to **document our cybersecurity journey**.  
+## **📌 Project Task**  
+As part of our **Computer Networking project**, we have developed a fully functional website to demonstrate fundamental networking principles. This project includes:  
+
+1. **Domain & Hosting** – Setting up a domain and hosting service.  
+2. **Website Development** – Creating a basic website using HTML and CSS.  
+3. **Networking Aspects** – Applying core networking concepts such as DNS, IP addressing, and protocols.  
+4. **Documentation** – Providing a detailed report on our setup, challenges, and networking principles.  
+5. **Bonus** – Implementing security measures like HTTPS, firewalls, or access control.  
 
 ---
 
-## 🏗️ **Project Roadmap**  
-| Phase | Task | Status |  
-|-------|------|--------|  
-| 🟢 | **Setup GitHub Repository & Pages** | ✅ Completed |  
-| 🟡 | **Design and Implement Core Website Features** | 🔨 In Progress |  
-| 🔴 | **Develop Security Modules & Integrations** | 🔜 Coming Soon |  
-| 🟣 | **Optimize & Deploy Final Version** | ⏳ Pending |  
-
-🔍 _We will keep this README updated as we progress!_  
+## **👥 Team Members**  
+- **Alexandrea Agbojeyin**  
+- **Emmanuel Alovor**  
+- **Andrew Chan**  
 
 ---
 
-## 🔒 **Security-Focused Features**  
-⚠️ Our project follows **modern cybersecurity best practices**, including:  
-- ✅ **Authentication & User Access Controls**: Secure login & role-based access.  
-- ✅ **Data Encryption**: Ensuring safe communication with **SSL/TLS encryption**.  
-- ✅ **Secure Coding Practices**: Preventing **SQL injection, XSS, and CSRF attacks**.  
-- ✅ **Ethical Hacking Research**: Exploring **pen-testing methods** and **vulnerability assessment**.  
+## **🌍 Domain & Hosting**  
+We have chosen **GitHub Pages** as our hosting platform due to its reliability and ease of deployment for static websites. Our website is live at:  
+
+🔗 **[CyberNexus Networking Hub](https://groupcybernexus.github.io/)**  
+
+Hosting Details:  
+- **Hosting Service**: GitHub Pages  
+- **Domain Name**: cybernexus-networking.github.io  
+- **DNS Handling**: GitHub automatically assigns an IP address and manages DNS resolution.  
 
 ---
 
-## 💻 **How to Access Our Website**  
-🎯 Check out our **live website** here: [CyberNexus Website](https://groupcybernexus.github.io/)  
+## **🛠 Website Setup**  
+We built the website using the following technologies:  
 
-To clone this repository locally:  
-```sh
-# Clone the repository
-git clone https://github.com/groupcybernexus/groupcybernexus.github.io.git
+✅ **HTML & CSS** – Structuring and styling the website.  
+✅ **GitHub Pages** – Hosting and managing version control.  
+
+### **Website Structure:**  
+```
+/cybernexus-networking
+│── index.html  (Homepage)
+│── styles.css  (Styling)
+│── pages/
+│   ├── routing-guide.html
+│   ├── troubleshooting-tools.html
+│── assets/
+│   ├── images/
+│   ├── icons/
 ```
 
 ---
 
-## 🛠 **Technologies Used**  
-🚀 This project is built with:  
-- **🌐 HTML, CSS & JavaScript** – Structuring, styling, and interactive elements.  
-- **🔧 GitHub Pages** – Free hosting for our website.  
-- **🔐 Cybersecurity Principles** – Secure coding & data protection.  
-- **⚡ Future Tech** – AI-driven security enhancements _(coming soon)_.  
+## **🌐 Networking Aspects**  
+To ensure our website is **accessible online**, we applied key networking principles:  
+
+🔹 **DNS (Domain Name System)** – Resolves our GitHub Pages domain to an IP address.  
+🔹 **IP Addressing** – GitHub assigns an IP for hosting, making it globally reachable.  
+🔹 **Protocols Used:**  
+   - **HTTP/HTTPS** – Communication between clients and the server.  
+   - **TCP/IP** – Ensuring reliable data transfer.  
+   - **DNS Protocol** – Handling domain resolution.  
 
 ---
 
-## 🚀 **Stay Updated!**  
-🔍 As we enhance this project, we’ll introduce **new security features, automation tools, and real-world cybersecurity implementations**. Stay tuned for updates!  
+## **📄 Documentation & Challenges**  
+### **📝 Setup Process**  
+1. Created a **GitHub repository** for version control.  
+2. Developed the website using **HTML and CSS**.  
+3. Configured **GitHub Pages** for free hosting.  
+4. Verified **DNS resolution** and ensured accessibility.  
 
-💻 Happy Coding!!
+### **🚧 Challenges Faced & Solutions**  
+| Challenge | Solution |  
+|-----------|----------|  
+| Configuring custom domain | Used GitHub's built-in DNS management |  
+| Ensuring HTTPS encryption | Used GitHub Pages' free SSL certificate |  
+| Making the site accessible worldwide | Verified DNS propagation and IP resolution |  
+
+---
+
+## **🔒 Bonus: Security Features**  
+We implemented basic **security measures** to enhance the project:  
+✅ **HTTPS Encryption** – Ensuring secure communication.  
+✅ **Basic Firewall Rules** – Restricting unauthorized access.  
+✅ **Role-Based Access Control** (RBAC) _(Future Enhancement)_ – User authentication for advanced features.  
+
+---
+
+## **🚀 Conclusion**  
+Through this project, we successfully combined **networking principles with web development** to build an accessible, informative, and secure website. This hands-on experience reinforced our understanding of **DNS, IP addressing, protocols, and network security**.  
+
+🔗 **Check out our live website:** [CyberNexus Networking Hub](https://groupcybernexus.github.io/)  
+
+💻 _Happy Networking!_ 🌍📡
