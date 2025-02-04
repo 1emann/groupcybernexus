@@ -23,11 +23,11 @@ As part of our **Computer Networking project**, we have developed a fully functi
 ## **🌍 Domain & Hosting**  
 We have chosen **GitHub Pages** as our hosting platform due to its reliability and ease of deployment for static websites. Our website is live at:  
 
-🔗 **[CyberNexus Networking Hub](https://groupcybernexus.github.io/)**  
+🔗 **[CyberNexus Networking Hub](https://drippyeman.github.io/groupcybernexus/)**  
 
 Hosting Details:  
 - **Hosting Service**: GitHub Pages  
-- **Domain Name**: cybernexus-networking.github.io  
+- **Domain Name**: drippyeman.github.io/groupcybernexus  
 - **DNS Handling**: GitHub automatically assigns an IP address and manages DNS resolution.  
 
 ---
@@ -40,7 +40,7 @@ We built the website using the following technologies:
 
 ### **Website Structure:**  
 ```
-/cybernexus-networking
+/groupcybernexus
 │── index.html  (Homepage)
 │── styles.css  (Styling)
 │── pages/
@@ -92,6 +92,6 @@ We implemented basic **security measures** to enhance the project:
 ## **🚀 Conclusion**  
 Through this project, we successfully combined **networking principles with web development** to build an accessible, informative, and secure website. This hands-on experience reinforced our understanding of **DNS, IP addressing, protocols, and network security**.  
 
-🔗 **Check out our live website:** [CyberNexus Networking Hub](https://groupcybernexus.github.io/)  
+🔗 **Check out our live website:** [CyberNexus Networking Hub](https://drippyeman.github.io/groupcybernexus/)  
 
 💻 _Happy Networking!_ 🌍📡
