@@ -80,6 +80,4 @@ We implemented basic **security measures** to enhance the project:
 ##  Our Conclusion 
 Through this project, CyberNexus successfully combined **networking principles with web development** to build an accessible, informative, and secure website. This hands-on experience reinforced our understanding of **DNS, IP addressing, protocols, and network security**.  
 
-🔗 **Check out our live website:** [CyberNexus Networking Hub](https://drippyeman.github.io/groupcybernexus/)  
-
 💻 _Thank You For Checking Us Out!_
