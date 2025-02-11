@@ -51,33 +51,33 @@ To ensure our website is **accessible online**, we applied key networking princi
 ---
 
 ## **📄 Documentation & Challenges**  
-### ** Setup Process**  
+###  Setup Process 
 1. Created a **GitHub repository** for version control.  
 2. Developed website using **HTML and CSS**.  
 3. Configured **GitHub Pages** for free hosting.  
 4. Verified **DNS resolution** and ensured accessibility.  
 
 ### **🚧 Challenges Faced & Solutions**  
-**Challenge**
+Challenge
 1.Configuring custom domain 
 2.Ensuring HTTPS encryption
 3.Making the site accessible worldwide
 
-**Solutions**
+Solutions
 1.Used GitHub's built-in DNS management
 2.Used GitHub Pages' free SSL certificate
 3.Verified DNS propagation and IP resolution
 
 ---
 
-## ** Bonus: Security Features**  
+##  Bonus: Security Features 
 We implemented basic **security measures** to enhance the project:  
 🔒 **HTTPS Encryption** – Ensuring secure communication.  
 🔒 **Basic Firewall Rules** – Restricting unauthorized access.  
 
 ---
 
-## ** Our Conclusion**  
+##  Our Conclusion 
 Through this project, CyberNexus successfully combined **networking principles with web development** to build an accessible, informative, and secure website. This hands-on experience reinforced our understanding of **DNS, IP addressing, protocols, and network security**.  
 
 🔗 **Check out our live website:** [CyberNexus Networking Hub](https://drippyeman.github.io/groupcybernexus/)  
