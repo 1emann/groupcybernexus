@@ -33,9 +33,8 @@ Hosting Details:
 
 ## **🛠 Website Setup**  
 We built the website using the following technologies:  
-
-✅ **HTML & CSS** – Structuring and styling the website.  
-✅ **GitHub Pages** – Hosting and managing version control.  
+ **HTML & CSS** – Structuring and styling the website.  
+ **GitHub Pages** – Hosting and managing version control.  
 
 ---
 
@@ -52,7 +51,7 @@ To ensure our website is **accessible online**, we applied key networking princi
 ---
 
 ## **📄 Documentation & Challenges**  
-### **📝 Setup Process**  
+### ** Setup Process**  
 1. Created a **GitHub repository** for version control.  
 2. Developed website using **HTML and CSS**.  
 3. Configured **GitHub Pages** for free hosting.  
@@ -71,10 +70,10 @@ To ensure our website is **accessible online**, we applied key networking princi
 
 ---
 
-## **🔒 Bonus: Security Features**  
+## ** Bonus: Security Features**  
 We implemented basic **security measures** to enhance the project:  
-✅ **HTTPS Encryption** – Ensuring secure communication.  
-✅ **Basic Firewall Rules** – Restricting unauthorized access.  
+🔒 **HTTPS Encryption** – Ensuring secure communication.  
+🔒 **Basic Firewall Rules** – Restricting unauthorized access.  
 
 ---
 
@@ -83,4 +82,4 @@ Through this project, CyberNexus successfully combined **networking principles w
 
 🔗 **Check out our live website:** [CyberNexus Networking Hub](https://drippyeman.github.io/groupcybernexus/)  
 
-💻 _Thank You For Checking Us Out!_ 🌍📡
+💻 _Thank You For Checking Us Out!_
