@@ -22,7 +22,7 @@ As part of our **Computer Networking project**, we have developed a fully functi
 
 ## **🌍 Domain & Hosting**  
 We chose **GitHub Pages** as our hosting platform due to its reliability and ease of deployment for static websites. Our website is live at:  
-🔗 **[CyberNexus Networking Hub](https://drippyeman.github.io/groupcybernexus/)**  
+🔗 **[CyberNexus Networking Hub]([https://1emann.github.io/groupcybernexus/])**  
 
 Hosting Details:  
 - **Hosting Service**: GitHub Pages  
